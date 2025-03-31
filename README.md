@@ -20,7 +20,7 @@
 [🔗 實務專題專區](https://drive.google.com/drive/folders/1osVfeFyky6spRT9Jcku5rapmOE0KNHj9?usp=sharing)  
 [🔗 figma 設計](https://www.figma.com/design/aBYkTw1CAeQ5qZAnMn0lZa/DormChain?node-id=0-1&t=M4433iyXNgrN39Pa-1)
 
-<img src="DormChain_homepage.png" width="500"> <img src="DormChain_aboutus.png" width="502"> 
+<img src="DormChain_homepage.png" width="480"> <img src="DormChain_aboutus.png" width="490"> 
 
 
 - **修讀CCNA證照班**  
@@ -45,4 +45,4 @@
 [🔗 file連結](https://www.figma.com/design/EdYSxCW2jZAr3iFzgMjqnJ/app?node-id=7-58&t=Qe08o9vdZEw9TuX4-1)  
 [🔗 prototype連結](https://www.figma.com/proto/EdYSxCW2jZAr3iFzgMjqnJ/app?page-id=0%3A1&node-id=7-58&viewport=460%2C162%2C0.15&t=nl6K9y5Et4xy7Z16-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=9%3A58)   
 
-<img scr="防詐騙app.png" width="200">
+<img src="防詐騙app.png" width="300">
