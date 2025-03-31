@@ -46,6 +46,4 @@
 [🔗 file連結](https://www.figma.com/design/EdYSxCW2jZAr3iFzgMjqnJ/app?node-id=7-58&t=Qe08o9vdZEw9TuX4-1)  
 [🔗 prototype連結](https://www.figma.com/proto/EdYSxCW2jZAr3iFzgMjqnJ/app?page-id=0%3A1&node-id=7-58&viewport=460%2C162%2C0.15&t=nl6K9y5Et4xy7Z16-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=9%3A58)   
 
-<img src="防詐騙app.png" width="300"> <img src="防詐騙app2.png" width="300"> <img src="防詐騙3app.png" width="300"> <img src="防詐騙4app.png" width="300"> 
-<img src="防詐騙app5.png" width="300">
-
+<img src="防詐騙app.png" width="300"> <img src="防詐騙app1.png" width="300"> <img src="防詐騙2app.png" width="300">
