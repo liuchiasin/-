@@ -22,7 +22,7 @@
 [🔗 figma 設計](https://www.figma.com/design/aBYkTw1CAeQ5qZAnMn0lZa/DormChain?node-id=0-1&t=M4433iyXNgrN39Pa-1)
 
 <img src="DormChain_homepage.png" width="300"> <img src="DormChain_aboutus.png" width="305"> 
-
+<img src="DormChain_signup.png" width="300">
 
 - **修讀CCNA證照班**  
 為更深⼊了解網路應⽤、IP通訊、資訊安全等相關知識領域，我於⼤三修讀了這⾨課程，透過實際上機操作及課堂解說以更專業的學習環境鍛鍊⾃我，預計於本學期6⽉進⾏證照考試。
