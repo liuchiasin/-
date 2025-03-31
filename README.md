@@ -20,7 +20,7 @@
 [🔗 實務專題專區](https://drive.google.com/drive/folders/1osVfeFyky6spRT9Jcku5rapmOE0KNHj9?usp=sharing)  
 [🔗 figma 設計](https://www.figma.com/design/aBYkTw1CAeQ5qZAnMn0lZa/DormChain?node-id=0-1&t=M4433iyXNgrN39Pa-1)
 
-<img src="DormChain_homepage.png" width="480"> <img src="DormChain_aboutus.png" width="490"> 
+<img src="DormChain_homepage.png" width="400"> <img src="DormChain_aboutus.png" width="405"> 
 
 
 - **修讀CCNA證照班**  
