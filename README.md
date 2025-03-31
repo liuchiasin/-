@@ -20,7 +20,7 @@
 [🔗 實務專題專區](https://drive.google.com/drive/folders/1osVfeFyky6spRT9Jcku5rapmOE0KNHj9?usp=sharing)  
 [🔗 figma 設計](https://www.figma.com/design/aBYkTw1CAeQ5qZAnMn0lZa/DormChain?node-id=0-1&t=M4433iyXNgrN39Pa-1)
 
-<img src="DormChain_homepage.png" width="600"> <img src="DormChain_aboutus.png" width="600"> 
+<img src="DormChain_homepage.png" width="500"> <img src="DormChain_aboutus.png" width="502"> 
 
 
 - **修讀CCNA證照班**  
@@ -40,9 +40,9 @@
 - 其他領域：Github, Cisco, ERP, Accounting
 
 ## 📌 其他作品
-**防詐騙APP figma設計**  
-這是我初次接觸figma並自己完成的第一個作品。在學習及嘗試過程中，我覺得最大的挑戰是要如何讓頁面呈現出加分的動態效果，以及如何設計出簡單明瞭又能夠凸顯功能特色的視覺頁面，而在我多次嘗試與調整後，順利完成了這個作品。
-[🔗 file連結](https://www.figma.com/design/EdYSxCW2jZAr3iFzgMjqnJ/app?node-id=7-58&t=Qe08o9vdZEw9TuX4-1)
+**防詐騙APP - figma設計**  
+這是我初次接觸figma並自己完成的第一個作品。在學習及嘗試過程中，我覺得最大的挑戰是要如何讓頁面呈現出加分的動態效果，以及如何設計出簡單明瞭又能夠凸顯功能特色的視覺頁面，而在我多次嘗試與調整後，順利完成了這個作品。  
+[🔗 file連結](https://www.figma.com/design/EdYSxCW2jZAr3iFzgMjqnJ/app?node-id=7-58&t=Qe08o9vdZEw9TuX4-1)  
 [🔗 prototype連結](https://www.figma.com/proto/EdYSxCW2jZAr3iFzgMjqnJ/app?page-id=0%3A1&node-id=7-58&viewport=460%2C162%2C0.15&t=nl6K9y5Et4xy7Z16-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=9%3A58)   
 
-<img scr="" width="400">
+<img scr="防詐騙app.png" width="200">
